@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f9dca7bf423e2c345ba6c37210d9fdf6
+timeCreated: 1536533329
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Super Mario Bros.
+  fontNames:
+  - Super Mario Bros.
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 69ce82ccb72601d4fb640a7fd689f106
+timeCreated: 1536533327
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Atari Classic Chunky
+  fontNames:
+  - Atari Classic Chunky
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: f90fe7e028ba111438c0c697032b5912
+timeCreated: 1536533329
+licenseType: Pro
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Gtek Broken
+  fontNames:
+  - Gtek Broken
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
